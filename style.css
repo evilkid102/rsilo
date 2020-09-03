@@ -1,0 +1,35 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header
+{
+    float:right;
+}
+
+.header a, .header button
+  {
+    margin: 10px;
+    color: blue;
+    text-decoration: none;
+
+  }
+.main{
+    text-align: center;
+  }
+
+.logo-img img
+  {
+    margin-top:10%;
+    width: 300px;
+    height: 100px;
+    margin-left: 220px;
+  }
+.main div
+  {
+      margin-top: 15px;
+  }    
+  
+
